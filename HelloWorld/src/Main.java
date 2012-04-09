@@ -8,6 +8,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("HelloWorld Egit");
 		System.out.println("test2");
+		System.out.println("HelloWorld again!");
 	}
 
 }
