@@ -10,6 +10,8 @@ public class Main {
 		//Sorry, a deleted  second System.out.println("This is a second line");
 		System.out.println("Forget to pull, why you delete the line?");
 		System.out.println("This is a test line!");
+		System.out.println("test2");
+		System.out.println("HelloWorld again!");
 	}
 
 }
